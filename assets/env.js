@@ -1,2 +1,2 @@
-SSID=11be1QQStosfnHwEiUqUntLp_jl5G3Tn_O8qGrpP8GS
+SSID=11be1QQStosfnHwEiUqUntLp_jl5G3Tn_O8qGrpP8GSU
 SNAME=okazaki!A2:K1000
